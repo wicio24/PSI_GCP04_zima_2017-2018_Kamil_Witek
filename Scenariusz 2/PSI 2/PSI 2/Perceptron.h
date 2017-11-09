@@ -26,7 +26,7 @@ public:
 	void wczytanie_danych();	//wczytanie danych z pliku
 	void losuj_wagi();	// losowanie wag z przedzia³u od 0 do 1
 	float licz_wyjscia(int i); //funkcja sumujšca perceptronu
-	void ucz();	//funkcja uczaca na podstawie roznicy wyniku tymczasowego i wyniku oczekiwanego
+	void Widrow_Hoff();	//funkcja uczaca na podstawie roznicy wyniku tymczasowego i wyniku oczekiwanego
 	void sprawdz(int tab[]);	//funkcja sprawdzajaca po zakonczeniu procesu uczenia
 	void wypisz();	//wypisanie wyniku sprawdzania
 	~Perceptron();	//destruktor domyslny
