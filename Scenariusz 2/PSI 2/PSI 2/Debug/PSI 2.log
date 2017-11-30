@@ -1,5 +1,0 @@
-﻿  Perceptron.cpp
-c:\users\kamil witek\source\repos\psi 2\psi 2\perceptron.cpp(7): warning C4305: "=": obcięcie z "double" do "float"
-c:\users\kamil witek\source\repos\psi 2\psi 2\perceptron.cpp(66): warning C4305: "inicjowanie": obcięcie z "double" do "float"
-c:\users\kamil witek\source\repos\psi 2\psi 2\perceptron.cpp(100): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
-  PSI 2.vcxproj -> C:\Users\Kamil Witek\source\repos\PSI 2\Debug\PSI 2.exe
